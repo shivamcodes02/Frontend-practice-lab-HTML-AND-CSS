@@ -1,0 +1,27 @@
+.image {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 25px;
+  margin-right: 5px;
+  vertical-align: middle;
+}
+.text {
+  font-size: 18px;
+  border: none;
+  vertical-align: middle;
+  width: 300px;
+}
+.button {
+  color: white;
+  background-color: rgb(29, 155, 240);
+  border: none;
+  border-radius: 30px;
+  font-weight: bold;
+  vertical-align: middle;
+  font-size: 16px;
+  padding-left: 16px;
+  padding-bottom: 8px;
+  padding-right: 16px;
+  padding-top: 8px;
+}

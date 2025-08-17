@@ -1,0 +1,6 @@
+.Cat-image {
+  height: 200px;
+  width: 200px;
+  object-position: center;
+  object-fit: cover;
+}

@@ -1,0 +1,43 @@
+.Headline {
+  margin-bottom: 25px;
+  font-size: 40px;
+  font-family: Arial;
+}
+.destination,
+.Pickup {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-bottom: 10px;
+  border: none;
+  font-size: 16px;
+  width: 400px;
+  background-color: rgb(240, 240, 240);
+}
+.Pickup {
+  display: block;
+}
+.destination {
+  display: block;
+  margin-bottom: 35px;
+}
+.first {
+  color: white;
+  background-color: black;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border: none;
+  font-size: 16px;
+  margin-right: 20px;
+}
+.next {
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border: none;
+  font-size: 16px;
+}

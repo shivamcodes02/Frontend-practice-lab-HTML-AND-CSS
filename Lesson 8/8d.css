@@ -1,0 +1,31 @@
+input {
+  margin-bottom: 12px;
+  padding-left: 16px;
+  padding-bottom: 12px;
+  padding-right: 16px;
+  padding-top: 12px;
+  border-radius: 8px;
+  border-style: solid;
+  font-size: 16px;
+  border-color: rgb(200, 200, 200);
+  border-width: 1px;
+}
+.second,
+.first {
+  width: 148px;
+}
+.Email {
+  width: 300px; 
+  display: block;
+}
+.button {
+  font-weight: bold;
+  font-size: 18px;
+  padding-bottom: 14px;
+  padding-top: 14px;
+  border: none;
+  width: 300px;
+  border-radius: 8px;
+  background-color: rgb(47, 127, 231);
+  color: white;
+}
