@@ -1,0 +1,17 @@
+.main-box {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.first {
+  background-color: lightpink;
+}
+.second {
+  background-color: lightpink;
+}
+.third {
+  background-color: lightpink;
+}
+.four {
+  background-color: lightpink;
+}

@@ -1,0 +1,16 @@
+.main-box {
+  display: flex;
+  border-style: solid;
+  border-color: rgb(150, 150, 150);
+  height: 50px;
+  border-width: 1px;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: row;
+}
+.first {
+  background-color: lightpink;
+}
+.second {
+  background-color: lightpink;
+}
