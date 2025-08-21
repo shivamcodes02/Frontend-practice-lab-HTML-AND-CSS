@@ -1,0 +1,61 @@
+div {
+  font-family: Arial;
+}
+
+.image {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 30px;
+}
+.tweet {
+  display: flex;
+  flex-direction: row;
+  width: 420px;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+.name {
+  font-weight: bold;
+  margin-right: 5px;
+}
+.name-container {
+  display: flex;
+  margin-bottom: 5px;
+}
+.picture-container {
+  margin-right: 10px;
+}
+.user-name {
+  color: rgb(111, 111, 111);
+}
+.tweet-content {
+  line-height: 20px;
+  margin-bottom: 15px;
+}
+.thumbnail-column{
+  background-color: rgb(220, 220, 220);
+  margin-right: 10px;
+  height: 100px;
+  width: 100px;
+}
+.video-info-column {
+  flex: 1;
+}
+.video-website {
+  color: rgb(111, 111, 111);
+  margin-bottom: 3px;
+}
+.video-title {
+  line-height: 22px;
+}
+.video-preview {
+  display: flex;
+  flex-direction: row;
+  border-width: 1px;
+  border-radius: 15px;
+  border-color:rgb(200, 200, 200);
+  border-style: solid;
+  align-items: center;
+  overflow: hidden;
+}
