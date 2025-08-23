@@ -1,0 +1,26 @@
+body {
+  height: 3000px;
+}
+.gray-box {
+  background-color: gray;
+  height: 180px;
+  width: 320px;
+  bottom: 20px;
+  right: 20px;
+  position: fixed;
+}
+.button {
+  background-color: black;
+  font-family: Arial;
+  color: white;
+  position: absolute;
+  font-size: 20px;
+  width: 45px;
+  height: 45px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 25px;
+  top: -18px;
+  left: -18px;
+}
